@@ -19,6 +19,7 @@ First make sure to disable ASLR (Properties -> Linker -> Advanced -> Dynamic bas
 The original output:
 
 ![Original Output](Images/OriginalOutput.png)
+
 The original reverse engineered code:
 
 ![Original Ghidra code](Images/Original.png)
@@ -27,6 +28,7 @@ The original reverse engineered code:
 The encrypted output:
 
 ![Encrypted Output](Images/EncryptedOutput.png)
+
 The encrypted reverse engineered code:
 
 ![Encrypted Ghidra code](Images/Encrypted.png)
