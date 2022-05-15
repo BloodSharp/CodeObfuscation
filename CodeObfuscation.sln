@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeObfuscation", "CodeObfuscation\CodeObfuscation.vcxproj", "{BFFFB853-9F3E-4C33-8A79-86FD3B9CA7AC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{3262482A-25E2-469D-916C-D86D1B222264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFFFB853-9F3E-4C33-8A79-86FD3B9CA7AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFFFB853-9F3E-4C33-8A79-86FD3B9CA7AC}.Debug|Win32.Build.0 = Debug|Win32
+		{BFFFB853-9F3E-4C33-8A79-86FD3B9CA7AC}.Release|Win32.ActiveCfg = Release|Win32
+		{BFFFB853-9F3E-4C33-8A79-86FD3B9CA7AC}.Release|Win32.Build.0 = Release|Win32
+		{3262482A-25E2-469D-916C-D86D1B222264}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3262482A-25E2-469D-916C-D86D1B222264}.Debug|Win32.Build.0 = Debug|Win32
+		{3262482A-25E2-469D-916C-D86D1B222264}.Release|Win32.ActiveCfg = Release|Win32
+		{3262482A-25E2-469D-916C-D86D1B222264}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
